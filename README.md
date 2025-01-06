@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [www.linkedin.com/in/mostafa-dallal-6b130a25a](www.linkedin.com/in/mostafa-dallal-6b130a25a)
 
-- 💬 Ask me about **html,css,js,c,c#,c++,java,python,data structure,data base.**
+- 💬 Ask me about **HTML,CSS,JS,C,C#,C++,JAVA,PYTHON,DATA STRUCTURE AND ALGORITHMS,DATA BASE.**
 
 - 📫 How to reach me **mostafa.dallal2005@gmail.com**
 
