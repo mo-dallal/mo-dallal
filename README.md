@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa H Dallal</h1>
-<h3 align="center">A passionate Backend developer from Palestine</h3>
+<h3 align="center">A passionate front-end developer from Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo-dallal&label=Profile%20views&color=0e75b6&style=flat" alt="mo-dallal" /> </p>
 
