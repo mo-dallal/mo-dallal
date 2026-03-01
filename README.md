@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mostafa" target="blank"><img src="https://img.shields.io/twitter/follow/mostafa?logo=twitter&style=for-the-badge" alt="mostafa" /></a> </p>
 
-- 🌱 I’m currently learning **node.js, asp.net**
+- 🌱 I’m currently learning ** asp.net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mo-dallal](https://github.com/mo-dallal)
 
