@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mo-dallal](https://github.com/mo-dallal)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/mostafa-dallal-6b130a25a](www.linkedin.com/in/mostafa-dallal-6b130a25a)
+- 📝 I regularly write articles on [www.linkedin.com/in/mostafa-dallal-6b130a25a](https://www.linkedin.com/in/mostafa-dallal-6b130a25a/)
 
 - 💬 Ask me about **HTML,CSS,JS,C,C#,C++,JAVA,PYTHON,DATA STRUCTURE AND ALGORITHMS,DATA BASE.**
 
